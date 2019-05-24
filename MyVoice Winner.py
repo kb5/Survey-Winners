@@ -27,7 +27,8 @@ past_file.write(str(today) + " -------------------------------------------------
 for x in past_file:
     past_winners.append(past_file.readlines())
 
-print(str(past_winners))
+# Can be uncommented to also display the list of past winners.
+#print(str(past_winners))
 
 # Loop to draw the names of the winners for garage access.
 for x in range(int(num_to_draw)):
