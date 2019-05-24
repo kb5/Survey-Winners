@@ -1,6 +1,6 @@
 # MyVoice Winner.py
 # Written by Kevin Blank
-# 2018-02-19
+# Updated 2019-5-24
 
 # This program reads in a txt file of current employees and randomly chooses a number you select. Those winners are
 #   then displayed to the screen, as well as written to a text file "past_winners.txt". The winners
